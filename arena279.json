@@ -1,6 +1,6 @@
 {
-    "BASE": {
-        "target node": "Arena",
+    "Arena": {
+        "target node": "Solid",
         "boundingObject": {
         }
     }
